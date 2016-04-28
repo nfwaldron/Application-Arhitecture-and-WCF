@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Web;
 
-namespace ProjectX.ApplicationService.Host
+namespace WCF123.ApplicationService.Host
 {
     public static class ExemptServiceCalls
     {
