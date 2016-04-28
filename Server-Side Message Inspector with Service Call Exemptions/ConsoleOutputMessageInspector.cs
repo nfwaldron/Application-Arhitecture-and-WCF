@@ -1,4 +1,4 @@
-using ProjectX.ApplicationService.Contracts.Authentication;
+using WcfService123.ApplicationService.Contracts.Authentication;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +9,9 @@ using System.ServiceModel.Dispatcher;
 using System.Web;
 using System.Xml;
 
-namespace ProjectX.ApplicationService.Host
+namespace WcfService123.ApplicationService.Host
 {
-    public class MessageInspector : IDispatchMessageInspector
+    public class ConsoleOutputMessageInspector : IDispatchMessageInspector
     {
         public object AfterReceiveRequest(ref System.ServiceModel.Channels.Message request, System.ServiceModel.IClientChannel channel, System.ServiceModel.InstanceContext instanceContext)
         {
