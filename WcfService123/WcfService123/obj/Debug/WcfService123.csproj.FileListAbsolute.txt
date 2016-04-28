@@ -1,0 +1,6 @@
+\\bhsjaxdccifs\users home$\nwaldron\my documents\visual studio 2015\Projects\WcfService123\WcfService123\bin\WcfService123.dll.config
+\\bhsjaxdccifs\users home$\nwaldron\my documents\visual studio 2015\Projects\WcfService123\WcfService123\bin\WcfService123.dll
+\\bhsjaxdccifs\users home$\nwaldron\my documents\visual studio 2015\Projects\WcfService123\WcfService123\bin\WcfService123.pdb
+\\bhsjaxdccifs\users home$\nwaldron\my documents\visual studio 2015\Projects\WcfService123\WcfService123\obj\Debug\WcfService123.dll
+\\bhsjaxdccifs\users home$\nwaldron\my documents\visual studio 2015\Projects\WcfService123\WcfService123\obj\Debug\WcfService123.pdb
+\\bhsjaxdccifs\Users Home$\NWALDRON\My Documents\Visual Studio 2015\Projects\WcfService123\WcfService123\obj\Debug\WcfService123.csprojResolveAssemblyReference.cache
