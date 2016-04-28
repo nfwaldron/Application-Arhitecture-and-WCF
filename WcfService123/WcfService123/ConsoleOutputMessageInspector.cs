@@ -52,13 +52,13 @@ namespace WcfService123
                 }
             }
 			
-			///// OR..... //////
+		///// OR..... //////
 			
 			
-			// Check to see if XML file has custom header <TokenHeader>, and if it does grab the user token, the Service name and Service Call (contained in the header file)
-			// and grab the XML message body
+		// Check to see if XML file has custom header <TokenHeader>, and if it does grab the user token, the Service name and Service Call (contained in the header file)
+		// and grab the XML message body
 			
-			 // foreach (XmlNode node in doc.DocumentElement.ChildNodes)
+		// foreach (XmlNode node in doc.DocumentElement.ChildNodes)
             // {
                 // if (node.Name == "s:Header")
                 // {
@@ -82,7 +82,7 @@ namespace WcfService123
                 // }
             // }
 			
-			// // Make call into database. BLL--> DAL --> Database
+	    // // Make call into database. BLL--> DAL --> Database
             // // insert into activity log table
             // bll.activitylog.insertintoactivitylog(service, servicecall, body, strmessage, usertoken);
 
