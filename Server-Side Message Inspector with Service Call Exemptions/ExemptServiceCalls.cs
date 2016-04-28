@@ -23,7 +23,7 @@ namespace WcfService123.ApplicationService.Host
         public const string GetLcpSiteLocations = "http://tempuri.org/IApplicationService/GetLcpSiteLocations";
 
         
-		public static List<string> GetExemptServices()
+	public static List<string> GetExemptServices()
         {
             string serviceCall;
             var serviceList = new List<string>(); // Declare a list of strings to hold the values of the object 
@@ -31,7 +31,7 @@ namespace WcfService123.ApplicationService.Host
             FieldInfo[] fields = type.GetFields(); // Obtain all fields
             
 			
-			foreach (var field in fields)
+	foreach (var field in fields)
             {
                 object value = field.GetValue(null); // Get the value of all of the fields/properties in the object
                 serviceCall  = (string)value; // Cast the object as a string 
