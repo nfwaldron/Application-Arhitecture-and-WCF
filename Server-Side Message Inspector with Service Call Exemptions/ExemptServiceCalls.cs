@@ -37,7 +37,7 @@ namespace WcfService123.ApplicationService.Host
                 serviceCall  = (string)value; // Cast the object as a string 
                 serviceList.Add(serviceCall); // add to the service list
             }
-            return serviceList;
+        return serviceList;
         }
     }
 
