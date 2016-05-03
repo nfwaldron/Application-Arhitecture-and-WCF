@@ -3,3 +3,7 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\Projec
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.BLL\obj\Debug\ProjectX.BLL.csprojResolveAssemblyReference.cache
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.BLL\obj\Debug\ProjectX.BLL.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.BLL\obj\Debug\ProjectX.BLL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.BLL\bin\Debug\ProjectX.BLL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.BLL\bin\Debug\ProjectX.BLL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.BLL\obj\Debug\ProjectX.BLL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.BLL\obj\Debug\ProjectX.BLL.pdb

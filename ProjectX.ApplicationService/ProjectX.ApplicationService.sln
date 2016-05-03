@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectX.ApplicationService
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectX.ApplicationService.Utilities", "ProjectX.ApplicationService.Utilities\ProjectX.ApplicationService.Utilities.csproj", "{ADE7F47C-5DE4-4E13-ADB0-F63FF0892D4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetX.ApplicationService", "ProjetX.ApplicationService\ProjetX.ApplicationService.csproj", "{6B424207-8875-41C2-9601-28D5BACDC5C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectX.ApplicationService", "ProjetX.ApplicationService\ProjectX.ApplicationService.csproj", "{6B424207-8875-41C2-9601-28D5BACDC5C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectX.ApplicationService.Client", "ProjectX.ApplicationServiceClient\ProjectX.ApplicationService.Client.csproj", "{07224EAE-62FD-42E9-B456-622B5744DFDD}"
 EndProject

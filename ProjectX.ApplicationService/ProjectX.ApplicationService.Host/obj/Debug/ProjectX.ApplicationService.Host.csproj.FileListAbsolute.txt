@@ -8,3 +8,13 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\Projec
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Contracts.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjetX.ApplicationService.pdb
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Host.dll.config
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Host.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjetX.ApplicationService.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjetX.ApplicationService.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.pdb

@@ -7,3 +7,12 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\Projec
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.csprojResolveAssemblyReference.cache
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\ProjectX.DAL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\ProjectX.DAL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\DataBuddy.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\ProjectX.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\DataBuddy.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\bin\Debug\ProjectX.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.DAL\obj\Debug\ProjectX.DAL.pdb

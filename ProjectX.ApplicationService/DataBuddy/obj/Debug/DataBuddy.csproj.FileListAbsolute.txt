@@ -5,3 +5,10 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\Projec
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.csprojResolveAssemblyReference.cache
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\bin\Debug\DataBuddy.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\bin\Debug\DataBuddy.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\bin\Debug\ProjectX.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\bin\Debug\ProjectX.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\DataBuddy\obj\Debug\DataBuddy.pdb

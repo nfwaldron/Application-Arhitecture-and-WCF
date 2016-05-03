@@ -82,9 +82,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ProjetX.ApplicationService\ProjetX.ApplicationService.csproj">
+    <ProjectReference Include="..\ProjectX.ApplicationService.Contracts\ProjectX.ApplicationService.Contracts.csproj">
+      <Project>{331d3800-9e3a-462f-b8b6-4489ebdb2094}</Project>
+      <Name>ProjectX.ApplicationService.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjetX.ApplicationService\ProjectX.ApplicationService.csproj">
       <Project>{6b424207-8875-41c2-9601-28d5bacdc5c0}</Project>
-      <Name>ProjetX.ApplicationService</Name>
+      <Name>ProjectX.ApplicationService</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
