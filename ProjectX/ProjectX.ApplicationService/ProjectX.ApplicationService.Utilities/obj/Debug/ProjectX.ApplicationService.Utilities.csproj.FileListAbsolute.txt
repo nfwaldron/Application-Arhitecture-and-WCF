@@ -1,0 +1,4 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.ApplicationService.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.ApplicationService.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\obj\Debug\ProjectX.ApplicationService.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\obj\Debug\ProjectX.ApplicationService.Utilities.pdb

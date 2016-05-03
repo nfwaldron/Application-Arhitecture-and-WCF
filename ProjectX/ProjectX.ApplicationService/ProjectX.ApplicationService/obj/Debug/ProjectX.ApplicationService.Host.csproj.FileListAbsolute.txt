@@ -1,0 +1,10 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\obj\Debug\ProjectX.ApplicationService.Host.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Host.dll.config
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Host.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\obj\Debug\ProjectX.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\obj\Debug\ProjectX.ApplicationService.Host.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjetX.ApplicationService.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjetX.ApplicationService.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService\bin\ProjectX.ApplicationService.Contracts.pdb

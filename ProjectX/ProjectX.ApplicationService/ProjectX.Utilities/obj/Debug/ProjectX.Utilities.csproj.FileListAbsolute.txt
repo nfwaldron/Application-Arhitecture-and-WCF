@@ -1,0 +1,5 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Utilities\bin\Debug\ProjectX.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Utilities\bin\Debug\ProjectX.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Utilities\obj\Debug\ProjectX.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Utilities\obj\Debug\ProjectX.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Utilities\obj\Debug\ProjectX.Utilities.pdb

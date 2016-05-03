@@ -1,0 +1,4 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Model\bin\Debug\ProjectX.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Model\bin\Debug\ProjectX.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Model\obj\Debug\ProjectX.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.Model\obj\Debug\ProjectX.Model.pdb
