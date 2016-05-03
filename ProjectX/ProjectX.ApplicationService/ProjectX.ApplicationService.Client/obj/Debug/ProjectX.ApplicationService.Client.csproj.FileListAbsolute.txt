@@ -1,7 +1,0 @@
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\bin\Debug\ProjectX.ApplicationService.Client.dll
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\bin\Debug\ProjectX.ApplicationService.Client.pdb
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\bin\Debug\ProjectX.ApplicationService.Contracts.dll
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\bin\Debug\ProjectX.ApplicationService.Contracts.pdb
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\obj\Debug\ProjectX.ApplicationService.Client.csprojResolveAssemblyReference.cache
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\obj\Debug\ProjectX.ApplicationService.Client.dll
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\ProjectX.ApplicationService\ProjectX.ApplicationService.Client\obj\Debug\ProjectX.ApplicationService.Client.pdb
