@@ -1,5 +1,8 @@
 ﻿using ProjectX.ApplicationService.Contracts;
+using ProjectX.ApplicationService.Contracts.Gender.Request;
+using ProjectX.ApplicationService.Contracts.Gender.Response;
 using ProjectX.ApplicationService.Contracts.Ping;
+using ProjectX.ApplicationService.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,6 +31,24 @@ namespace ProjectX.ApplicationService
             {
                 response.Success = false;
                 response.ErrorMessage = ex.ToString();
+            }
+
+            return response;
+        }
+
+        public GetGenderResponse GetGender(GetGenderRequest request)
+        {
+            var response = new GetGenderResponse();
+            try
+            {
+                response.GenderList = ModelTranslator.Translate(BLL.Gender.GetGender());
+                response.Success = true;
+            }
+            catch (Exception ex)
+            {
+                response.Success = false;
+                response.ErrorMessage = ex.ToString();
+                response.Errors = ErrorCodes.Invalid;
             }
 
             return response;

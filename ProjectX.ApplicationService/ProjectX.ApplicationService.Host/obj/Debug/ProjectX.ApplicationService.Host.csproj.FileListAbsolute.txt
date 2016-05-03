@@ -18,3 +18,15 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.Applic
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.csprojResolveAssemblyReference.cache
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\obj\Debug\ProjectX.ApplicationService.Host.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.BLL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.DAL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\DataBuddy.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.Utilities.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.BLL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.ApplicationService.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.DAL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\DataBuddy.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Host\bin\ProjectX.Utilities.pdb

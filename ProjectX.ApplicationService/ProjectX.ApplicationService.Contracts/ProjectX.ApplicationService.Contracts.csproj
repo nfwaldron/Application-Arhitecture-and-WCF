@@ -46,6 +46,9 @@
     <Compile Include="BaseResponse.cs" />
     <Compile Include="BaseRequest.cs" />
     <Compile Include="ErrorCodes.cs" />
+    <Compile Include="Gender\GenderDataContract.cs" />
+    <Compile Include="Gender\Request\GetGenderRequest.cs" />
+    <Compile Include="Gender\Response\GetGenderResponse.cs" />
     <Compile Include="IApplicationService.cs" />
     <Compile Include="Ping\PingRequest.cs" />
     <Compile Include="Ping\PingResponse.cs" />

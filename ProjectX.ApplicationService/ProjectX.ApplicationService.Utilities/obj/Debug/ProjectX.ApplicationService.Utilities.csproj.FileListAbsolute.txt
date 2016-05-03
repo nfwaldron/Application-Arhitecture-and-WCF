@@ -6,3 +6,8 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.Applic
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.ApplicationService.Utilities.pdb
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\obj\Debug\ProjectX.ApplicationService.Utilities.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\obj\Debug\ProjectX.ApplicationService.Utilities.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\bin\Debug\ProjectX.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Utilities\obj\Debug\ProjectX.ApplicationService.Utilities.csprojResolveAssemblyReference.cache

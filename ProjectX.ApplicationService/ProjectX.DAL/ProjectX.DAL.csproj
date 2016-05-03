@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Gender.cs" />
     <Compile Include="StoredProcs.cs" />
     <Compile Include="DALConfigurationManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -49,6 +50,14 @@
     <ProjectReference Include="..\DataBuddy\DataBuddy.csproj">
       <Project>{1dd0f38a-d9b1-4645-85c2-081439d278be}</Project>
       <Name>DataBuddy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectX.Model\ProjectX.Model.csproj">
+      <Project>{35af9201-fdd7-4292-af67-21a69a34f59a}</Project>
+      <Name>ProjectX.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectX.Utilities\ProjectX.Utilities.csproj">
+      <Project>{d733e0c2-ffd0-4ae1-b8b8-23200d567552}</Project>
+      <Name>ProjectX.Utilities</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

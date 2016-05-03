@@ -1,4 +1,6 @@
-﻿using ProjectX.ApplicationService.Contracts.Ping;
+﻿using ProjectX.ApplicationService.Contracts.Gender.Request;
+using ProjectX.ApplicationService.Contracts.Gender.Response;
+using ProjectX.ApplicationService.Contracts.Ping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,5 +26,8 @@ namespace ProjectX.ApplicationService.Contracts
     {
         [OperationContract]
         PingResponse Ping(PingRequest request);
+
+        [OperationContract]
+        GetGenderResponse GetGender(GetGenderRequest request);
     }
 }

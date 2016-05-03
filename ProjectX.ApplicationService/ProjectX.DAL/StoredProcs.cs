@@ -13,5 +13,9 @@ namespace ProjectX.DAL
     /// </summary>
     public class StoredProcs
     {
+        public class GetGender
+        {
+            public const string Name = "usp_GetGender";
+        }
     }
 }

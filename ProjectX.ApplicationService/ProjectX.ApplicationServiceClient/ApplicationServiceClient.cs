@@ -1,4 +1,6 @@
 ﻿using ProjectX.ApplicationService.Contracts;
+using ProjectX.ApplicationService.Contracts.Gender.Request;
+using ProjectX.ApplicationService.Contracts.Gender.Response;
 using ProjectX.ApplicationService.Contracts.Ping;
 using System;
 using System.Collections.Generic;
@@ -23,5 +25,11 @@ namespace ProjectX.ApplicationServiceClient
         {
             return Channel.Ping(request);
         }
+
+        public GetGenderResponse GetGender(GetGenderRequest request)
+        {
+            return Channel.GetGender(request);
+        }
+
     }
 }

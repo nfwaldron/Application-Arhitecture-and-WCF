@@ -44,6 +44,16 @@
     <Compile Include="ModelTranslator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectX.ApplicationService.Contracts\ProjectX.ApplicationService.Contracts.csproj">
+      <Project>{331d3800-9e3a-462f-b8b6-4489ebdb2094}</Project>
+      <Name>ProjectX.ApplicationService.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectX.Model\ProjectX.Model.csproj">
+      <Project>{35af9201-fdd7-4292-af67-21a69a34f59a}</Project>
+      <Name>ProjectX.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

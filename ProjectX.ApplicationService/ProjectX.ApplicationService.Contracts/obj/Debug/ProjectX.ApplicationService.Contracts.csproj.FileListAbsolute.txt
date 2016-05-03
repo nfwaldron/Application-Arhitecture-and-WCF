@@ -7,3 +7,4 @@ C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.Applic
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Contracts\bin\Debug\ProjectX.ApplicationService.Contracts.pdb
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Contracts\obj\Debug\ProjectX.ApplicationService.Contracts.dll
 C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Contracts\obj\Debug\ProjectX.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX.ApplicationService\ProjectX.ApplicationService.Contracts\obj\Debug\ProjectX.ApplicationService.Contracts.csprojResolveAssemblyReference.cache

@@ -49,6 +49,18 @@
       <Project>{331d3800-9e3a-462f-b8b6-4489ebdb2094}</Project>
       <Name>ProjectX.ApplicationService.Contracts</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ProjectX.ApplicationService.Utilities\ProjectX.ApplicationService.Utilities.csproj">
+      <Project>{ade7f47c-5de4-4e13-adb0-f63ff0892d4d}</Project>
+      <Name>ProjectX.ApplicationService.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectX.BLL\ProjectX.BLL.csproj">
+      <Project>{3de9eec1-5afd-46d5-ba8a-0ba497e13117}</Project>
+      <Name>ProjectX.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjectX.Model\ProjectX.Model.csproj">
+      <Project>{35af9201-fdd7-4292-af67-21a69a34f59a}</Project>
+      <Name>ProjectX.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
