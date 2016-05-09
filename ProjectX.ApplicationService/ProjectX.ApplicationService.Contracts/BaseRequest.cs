@@ -17,6 +17,7 @@ namespace ProjectX.ApplicationService.Contracts
     [DataContract]
     public abstract class BaseRequest
     {
-
+        [DataMember]
+        public string UserToken { get; set; }
     }
 }

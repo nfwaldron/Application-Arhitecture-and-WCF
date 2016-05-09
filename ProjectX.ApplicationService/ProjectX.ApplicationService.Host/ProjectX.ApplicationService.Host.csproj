@@ -69,6 +69,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerMessageInspector\ExemptServiceCalls.cs" />
+    <Compile Include="ServerMessageInspector\MessageBehavior.cs" />
+    <Compile Include="ServerMessageInspector\MessageBehaviorExtensionElement.cs" />
+    <Compile Include="ServerMessageInspector\MessageInspector.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
