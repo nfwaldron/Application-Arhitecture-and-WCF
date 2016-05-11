@@ -13,7 +13,7 @@ namespace MyWCFRestService
     public interface IProductRESTService
     {
         [OperationContract]
-        [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Xml,
+        [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Json,
                                     BodyStyle = WebMessageBodyStyle.Bare,
                                     UriTemplate = "GetProductList/")]
         List<ProductDataContract> GetProductList();
