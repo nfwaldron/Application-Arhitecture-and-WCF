@@ -1,0 +1,10 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.Host.dll.config
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.Host.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\bin\ProjectY.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\obj\Debug\ProjectY.ApplicationService.Host.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\obj\Debug\ProjectY.ApplicationService.Host.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService.Host\obj\Debug\ProjectY.ApplicationService.Host.pdb

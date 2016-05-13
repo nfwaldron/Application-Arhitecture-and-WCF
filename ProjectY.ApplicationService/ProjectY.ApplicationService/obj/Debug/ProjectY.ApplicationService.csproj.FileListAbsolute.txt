@@ -1,0 +1,7 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\bin\Debug\ProjectY.ApplicationService.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\bin\Debug\ProjectY.ApplicationService.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\bin\Debug\ProjectY.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\bin\Debug\ProjectY.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\obj\Debug\ProjectY.ApplicationService.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\obj\Debug\ProjectY.ApplicationService.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectY.ApplicationService\ProjectY.ApplicationService\obj\Debug\ProjectY.ApplicationService.pdb
