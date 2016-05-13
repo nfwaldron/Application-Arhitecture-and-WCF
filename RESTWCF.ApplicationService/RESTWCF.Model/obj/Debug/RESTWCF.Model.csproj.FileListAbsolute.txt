@@ -1,0 +1,5 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.Model\bin\Debug\RESTWCF.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.Model\bin\Debug\RESTWCF.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.Model\obj\Debug\RESTWCF.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.Model\obj\Debug\RESTWCF.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.Model\obj\Debug\RESTWCF.Model.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\bin\MyWCFRestService.dll.config
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\bin\MyWCFRestService.dll
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\bin\MyWCFRestService.pdb
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\obj\Debug\MyWCFRestService.csprojResolveAssemblyReference.cache
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\obj\Debug\MyWCFRestService.dll
-C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\ProjectX\MyWCFRestService\MyWCFRestService\obj\Debug\MyWCFRestService.pdb

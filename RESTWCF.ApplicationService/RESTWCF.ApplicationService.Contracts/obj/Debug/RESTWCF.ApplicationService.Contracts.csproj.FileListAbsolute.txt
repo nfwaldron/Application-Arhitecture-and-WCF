@@ -1,0 +1,5 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.ApplicationService.Contracts\bin\Debug\RESTWCF.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.ApplicationService.Contracts\bin\Debug\RESTWCF.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.ApplicationService.Contracts\obj\Debug\RESTWCF.ApplicationService.Contracts.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.ApplicationService.Contracts\obj\Debug\RESTWCF.ApplicationService.Contracts.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.ApplicationService.Contracts\obj\Debug\RESTWCF.ApplicationService.Contracts.csprojResolveAssemblyReference.cache

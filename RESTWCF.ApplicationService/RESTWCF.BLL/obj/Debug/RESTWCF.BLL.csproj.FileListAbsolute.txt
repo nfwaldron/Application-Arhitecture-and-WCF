@@ -1,0 +1,9 @@
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.BLL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.BLL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.DAL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.Model.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.DAL.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\bin\Debug\RESTWCF.Model.pdb
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\obj\Debug\RESTWCF.BLL.csprojResolveAssemblyReference.cache
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\obj\Debug\RESTWCF.BLL.dll
+C:\Users\nwaldron\Desktop\GitHub\Application-Arhitecture-and-WCF\RESTWCF.ApplicationService\RESTWCF.BLL\obj\Debug\RESTWCF.BLL.pdb
